@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/model/Persona.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/model/Paciente.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/model/Agendable.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/model/Medico.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/model/Clinica.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/viewmodel/ClinicaViewModel.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/persistencia/IPersistencia.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/persistencia/PersistenciaArchivo.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/excepciones/CampoVacioException.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/excepciones/UsuarioNoEncontradoException.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/view/VentanaConsulta.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/view/VentanaHistorial.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/view/VentanaPrincipal.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/view/VentanaPacientes.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/view/VentanaMedicos.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/model/Consulta.java</file>
+            <file>file:/C:/Users/paval/OneDrive/Documentos/New%20Folder/mensajes/Parcial2.2/src/App/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
